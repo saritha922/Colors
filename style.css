@@ -1,0 +1,78 @@
+.first{
+    color: aqua;
+    background-color: rgb(234, 23, 118);
+}
+
+.second{
+    color: cornsilk;
+    background-color: brown;
+}
+
+.fir{
+    color: chartreuse;
+    background-color: red;
+}
+
+.sec{
+    color: coral;
+    background-color: blueviolet;
+}
+
+.med{
+    color:skyblue;
+    background-color:deeppink;
+}
+
+.tub{
+    color: mediumvioletred;
+    background-color: chartreuse;
+}
+
+.spe{
+    color: rgb(236, 70, 15);
+    background-color: aqua;
+}
+
+.cone{
+    color: maroon;
+    background-color: gold;
+}
+
+.tas{
+    color: rgb(235, 228, 10);
+    background-color: brown;
+}
+
+.cup{
+    color: rgb(44, 35, 214);
+}
+
+.van{
+    color: deepskyblue;
+}
+.red{
+    color: chartreuse;
+} 
+
+.vanilla{
+    color: darkorange;
+}
+
+.tubs{
+    color: deeppink;
+}
+
+.butter{
+    color: red;
+}
+
+.cones{
+    color: blue;
+}
+
+.tasty{
+    color: rgb(2, 104, 2);
+}
+*{
+    background-color: bisque;
+}
